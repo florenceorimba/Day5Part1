@@ -154,7 +154,9 @@ P, h1 {
 .txt48 {
     font-size: 48px;
 }
-
+.txt64 {
+    font-size: 64px;
+}
 .webkit {
     -webkit-font-smoothing: antialiased;
 }
@@ -207,8 +209,8 @@ P, h1 {
     }
 }
 @media (min-width: 768px) {
-    .md\:txt56 {
-        font-size: 56px;
+    .md\:txt64 {
+        font-size: 64px;
     }
 }
 
