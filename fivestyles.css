@@ -206,6 +206,11 @@ P, h1 {
         font-size: 56px;
     }
 }
+@media (min-width: 768px) {
+    .md\:txt56 {
+        font-size: 56px;
+    }
+}
 
 @media (min-width: 768px) {
     .md\:w3 {
